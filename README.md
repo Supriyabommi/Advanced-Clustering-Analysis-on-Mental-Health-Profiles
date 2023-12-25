@@ -4,3 +4,5 @@ This project applies advanced clustering techniques to analyze mental health pro
 ## Dataset
 
 The dataset MH-CLD-2021-DS0001-bndl-data-csv_v1.csv is a comprehensive collection of variables related to mental health diagnoses and demographic information. The dataset is cleaned by eliminating rows having missing values. Handbook is provided to understand the terminology.
+
+https://www.datafiles.samhsa.gov/dataset/mental-health-client-level-data-2021-mh-cld-2021-ds0001
